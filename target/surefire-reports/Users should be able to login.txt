@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Users should be able to login
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.111 s - in Users should be able to login
